@@ -29,7 +29,7 @@ Designed with a glitchy, dark terminal-style UI, it’s part joke, part experime
 - False Mode — Glitchy red results with incorrect calculations
 - Correct Mode — Real calculations (rare chance)
 - Error Mode — Shows warnings for invalid inputs or division by zero
-
+```text 
 📁 Folder Structure
 false-calculator/
 │
